@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  width:100vw;
+  height: 100vh;
+  font-family: poppins;
+}
+.ch4 {	
+	padding: 1% 10%;
+	margin-top: 50px;
+}
+
+@media only screen and (max-width: 996px) {
+  .im-1 {
+    width: 80%;
+    height: 80%;
+  }
+  .im-2 {
+    width:100%;
+  }
+  .foo h1 {
+    font-size: 30px;
+  }
+  .intro {
+    margin-top: -200px;
+    text-align: center;
+  }
+  .ch3 {
+    text-align: center;
+  }
+  .trans-div {
+    display:block;
+  }
+  body p {
+    font-size: 13px;
+  }
+  body h1  {
+    font-size: 20px;
+  }
+  body h2  {
+    font-size: 18px;
+  }
+  body h3  {
+    font-size: 16px;
+  }
+  body h5  {
+    font-size: 14px;
+  }
+  
+}
